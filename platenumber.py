@@ -114,3 +114,4 @@ if __name__ == '__main__':
 	imagePath = '10.jpg'
 	img = cv2.imread(imagePath)
 	detect(img)
+	print '---'
